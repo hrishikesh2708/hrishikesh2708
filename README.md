@@ -15,6 +15,7 @@
 - 🔧   PyCharm | Visual Studio code | Git 
 
 [![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishikesh2708&hide=prs,issues,contribs&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikesh2708&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/github/watchers/hrishikesh2708/hrishikesh2708?style=plastic)
