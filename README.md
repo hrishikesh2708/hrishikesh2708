@@ -1,19 +1,28 @@
 # Hey there! I'm Hrishikesh.
 
 ### About Me
-- 💼   Associate Software Engineer at Highradius Technology
+- 🎓   Pursuing Master of Science in Computer Science from the [University of Southern California](https://www.usc.edu)
+- 💼   Former Associate Software Engineer at HighRadius Technologies
 - 🎓   Computer Science Graduate from [SRM Institue Of Science And Technology](https://www.srmist.edu.in/).
-- 🔭   I’m currently learning React Application Development
-- 🤔   Exploring new technologies and developing application using React solutions.
-- 🌱   Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️   Virtual games and trying out latest technology trends as hobbies/side hustles.
+- 📚   Currently delving into the fascinating realms of:
+    - Harnessing the Power of Natural Language
+    - Exploring the Frontiers of Machine Learning
+- 🌟   Passionate about unraveling the mysteries of language and teaching machines to learn.
+- ✍️   In my leisure time, I find joy in immersing myself in virtual gaming, keeping abreast of the latest technology advancements, and indulging my passion for cars.
 
 ### 🛠 Tech Stack
-- 💻   Python | C++ | HTML | CSS | JavaScript
-- 🌐   React | Spring boot | Nodejs
-- 🛢   Mongodb | MySQL | Firebase | Xampp
-- 🔧   PyCharm | Visual Studio code | Git 
+- 💻   Languages: Python | C/C++ | JavaScript | Java
+- 🌐   Frontend: HTML | CSS | React
+- 🛢   Databases: MySQL | MongoDB
+- 🔧   Technologies: React | Node.js | WebdriverIO | NginX
+- 📦   Libraries: Numpy | Pandas | Scikit-learn | Pytorch
+- 🧰   Tools and Systems: Git | Jira | REST APIs | AWS | Jenkins | Windows | MacOS | Agile
 
-![](https://img.shields.io/github/watchers/hrishikesh2708/hrishikesh2708?style=plastic)
+### 📫 Contact Me
+- Email: hthakur@usc.edu / hrishith27@gmail.com
+- LinkedIn: [Hrishikesh Thakur](https://www.linkedin.com/in/hrishikesh--thakur/)
+
+<!--![](https://img.shields.io/github/watchers/hrishikesh2708/hrishikesh2708?style=plastic)
 ![](https://img.shields.io/github/followers/hrishikesh2708?style=plastic)
 ![](https://img.shields.io/github/stars/hrishikesh2708?style=plastic)
+--->
